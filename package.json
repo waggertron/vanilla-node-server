@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-node-server",
+  "version": "1.0.0",
+  "description": "vanilla node server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waggertron/vanilla-node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waggertron/vanilla-node-server/issues"
+  },
+  "homepage": "https://github.com/waggertron/vanilla-node-server#readme"
+}
